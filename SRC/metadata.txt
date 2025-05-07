@@ -1,0 +1,36 @@
+Train mission (1710, 540,
+Date_PAU - Date_PAU (2019-03-13,...)
+Train type Train type(RST,GT,TJT)
+Train type Train sort (PendEL,FAST, REGIONAL,FREIGHT..)
+Stay typeDeparture Type of stay Departure (Pause, Passage, First)
+Stay typeArrival Stay type Arrival (Last-load, passage, Stay-pause)
+Activity codeDeparture Activity Code Departure (11,0,1,..)
+Activity codeDescriptionDeparture Activity CodeDescriptionDeparture (Departure and arrival of passengers)
+Activity codeArrival Activity codeArrival (Disembarkation of passengers, Depature and arrival of passengers)
+Activity CodeDescriptionArrival Activity CodeDescriptionArrival
+Part Route Number Part Route number
+First place signature_for_Assignment                                    - Origin Point                  Förstaplatssignatur_för_Uppdrag
+Last location signature_for_Assignment                                  - Destination Point             Sistaplatssignatur_för_Uppdrag
+Place of departure                                                      - Depature                      Avgångsplats
+Place of departure signature                                            - Depature Code                 Avgångsplatssignatur
+Place of arrival                                                        - Arrival                       Ankomstplats
+Place of arrival signature                                              - Arrival Code                  Ankomstplatssignatur
+PlanAvgTid Planned arrival time
+PlanAnkTid Planned departure time
+Actual arrival
+Actual departure time
+PlanAnkTid_vid_AvgPlats planned arrival at departure station
+UtfAnkTid_vid_AvgPlats actual arrival at departure station
+PlanDwell timeDeparture Planned departure
+Actual Departure
+Plan Walking time Plan Walking time
+Outgoing time Outgoing time
+Delay Walking time
+Avg Delay Avg Delay
+DuckDelay
+DelayDelayDeparture DelayStayDeparture
+
+
+
+Uppsala (U)
+Stockholm (Cst)
