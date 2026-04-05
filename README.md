@@ -20,19 +20,25 @@ Before running this notebook, ensure you have the following installed:
 - Jupyter Notebook or JupyterLab
 - Required Python packages (see Installation section)
 
-# Project Structure
-Railway_Network_RSP/
-├── SampleWork.py # Main analysis module (CVaR, distributions)
-├── correlation.py # Correlation analysis between variables
-├── presentation_figure.py # Generate publication-ready figures
-├── main_v2.ipynb # Main analysis pipeline
-├── draw_cvar.ipynb # CVaR visualization notebook
-├── UniquePath.ipynb # Unique path identification
-├── path_finder_for_one_journey.ipynb # Route optimization
-├── get_sorted_journey_from_data_source.ipynb # Data preprocessing
-├── acm_to_blg_corrected_delays.csv # Corrected delay data
-├── adjecencyMatrix.xlsx # Station connectivity matrix
-└── bootstrap_results.tex # Bootstrap statistical results
+## Project Structure
+
+### Python Modules
+- `SampleWork.py` - Main analysis module (CVaR, distributions)
+- `correlation.py` - Correlation analysis between variables
+- `presentation_figure.py` - Generate publication-ready figures
+
+### Jupyter Notebooks
+- `main_v2.ipynb` - Main analysis pipeline
+- `draw_cvar.ipynb` - CVaR visualization notebook
+- `UniquePath.ipynb` - Unique path identification
+- `path_finder_for_one_journey.ipynb` - Route optimization
+- `get_sorted_journey_from_data_source.ipynb` - Data preprocessing
+
+### Data Files
+- `acm_to_blg_corrected_delays.csv` - Corrected delay data
+- `adjecencyMatrix.xlsx` - Station connectivity matrix
+- `bootstrap_results.tex` - Bootstrap statistical results
+```
 
 ## How to Run
 
