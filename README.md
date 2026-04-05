@@ -20,10 +20,23 @@ Before running this notebook, ensure you have the following installed:
 - Jupyter Notebook or JupyterLab
 - Required Python packages (see Installation section)
 
-## Installation
+# Project Structure
+Railway_Network_RSP/
+├── SampleWork.py # Main analysis module (CVaR, distributions)
+├── correlation.py # Correlation analysis between variables
+├── presentation_figure.py # Generate publication-ready figures
+├── main_v2.ipynb # Main analysis pipeline
+├── draw_cvar.ipynb # CVaR visualization notebook
+├── UniquePath.ipynb # Unique path identification
+├── path_finder_for_one_journey.ipynb # Route optimization
+├── get_sorted_journey_from_data_source.ipynb # Data preprocessing
+├── acm_to_blg_corrected_delays.csv # Corrected delay data
+├── adjecencyMatrix.xlsx # Station connectivity matrix
+└── bootstrap_results.tex # Bootstrap statistical results
 
-### Step 1: Clone the Repository
+## How to Run
 
+### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/yourusername/Railway_Network_RSP.git
+cd Railway_Network_RSP
