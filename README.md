@@ -46,21 +46,20 @@ Before running this notebook, ensure you have the following installed:
 ```bash
 git clone https://github.com/yourusername/Railway_Network_RSP.git
 cd Railway_Network_RSP
+```
 
 
 ## Launch Jupyter Notebook
 
 ## Run Analysis
-Open main_v2.ipynb for complete analysis pipeline
-Open draw_cvar.ipynb for risk visualization
-Open path_finder_for_one_journey.ipynb for route optimization
+- `Open main_v2.ipynb for complete analysis pipeline
+- `Open draw_cvar.ipynb for risk visualization
+- `Open path_finder_for_one_journey.ipynb for route optimization
 
 ## Key Results
-Identified delay patterns across different routes
-Calculated CVaR at 95% confidence for risk assessment
-Validated findings using bootstrap methods
+- `Identified delay patterns across different routes
+- `Calculated CVaR at 95% confidence for risk assessment
+- `Validated findings using bootstrap methods
 
 ## Author
-Achini Nanayakkara
-Department of Data Science
-Uppsala University, Sweden
+- Achini Nanayakkara, Department of Data Science, Uppsala University, Sweden
